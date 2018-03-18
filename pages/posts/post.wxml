@@ -1,1 +1,13 @@
-<text>post</text>
+<view>
+  <swiper indicator-dots="true" autoplay="true" interval="2000">
+    <swiper-item>
+      <image src="/images/米诺·路飞1366.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/米诺·索隆1366.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/34.1366.jpg"></image>
+    </swiper-item>
+  </swiper>
+</view>
