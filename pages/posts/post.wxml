@@ -10,19 +10,35 @@
       <image src="/images/34.1366.jpg"></image>
     </swiper-item>
   </swiper>
-  <view>
-    <view>
-      <image src="/images/avatar/avatar.png"></image>
-      <text>Mar 19 2018</text>
+  <view class="post-container">
+    <view class="post-author-date">
+      <image class="post-author" src="/images/avatar/avatar.png"></image>
+      <text class="post-date">Mar 19 2018</text>
     </view>
-    <text>正是虾肥蟹壮时</text>
-    <image src="/images/post/米诺·路飞1366.jpg"></image>
-    <text>菊黄蟹正肥，品尝秋之味。徐志摩把“看初花的荻芦”和“到楼外楼吃蟹”并列为秋天来杭州不能错过的风雅之事；用林妹妹的话讲是“鳌封嫩玉双双满”</text>
-    <view>
-      <image src="src"></image>
-      <text></text>
-      <image src="src"></image>
-      <text></text>
+    <text class="post-title">正是虾肥蟹壮时</text>
+    <image class="post-image" src="/images/post/米诺·路飞1366.jpg"></image>
+    <text class="post-content">菊黄蟹正肥，品尝秋之味。徐志摩把“看初花的荻芦”和“到楼外楼吃蟹”并列为秋天来杭州不能错过的风雅之事；用林妹妹的话讲是“鳌封嫩玉双双满”</text>
+    <view class="post-like">
+      <image class="post-like-image" src="../../images/icon/avatar.png"></image>
+      <text class="post-like-font">92</text>
+      <image class="post-like-image" src="../../images/icon/avatar.png"></image>
+      <text class="post-like-font">65</text>
+    </view>
+  </view>
+
+  <view class="post-container">
+    <view class="post-author-date">
+      <image class="post-author" src="/images/avatar/avatar.png"></image>
+      <text class="post-date">Mar 20 2018</text>
+    </view>
+    <text class="post-title">比利·林恩的中场故事</text>
+    <image class="post-image" src="/images/post/米诺·索隆1366.jpg"></image>
+    <text class="post-content">李安是一位绝不会重复自己的导演，本片将极富原创性，李安总所瞩目的新片《比利·林恩漫长的中场休息》，正式更名《半场无战事》。</text>
+    <view class="post-like">
+      <image class="post-like-image" src="../../images/icon/avatar.png"></image>
+      <text class="post-like-font">92</text>
+      <image class="post-like-image" src="../../images/icon/avatar.png"></image>
+      <text class="post-like-font">65</text>
     </view>
   </view>
 </view>
