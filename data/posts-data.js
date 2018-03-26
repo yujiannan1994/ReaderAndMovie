@@ -27,3 +27,7 @@ var local_database = [
     avatar: "/images/avatar/avatar.png"
   }
 ]
+
+module.exports = {
+  postList: local_database
+}
